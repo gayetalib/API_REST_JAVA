@@ -1,6 +1,8 @@
 # API_REST_JAVA
 API REST Spring Boot
 
-##Autor : Amadou GAYE
+##Author
+Amadou GAYE
 
-###Software Engineer 
+###Role
+Software Engineer 
